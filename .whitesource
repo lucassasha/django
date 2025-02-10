@@ -5,8 +5,9 @@
     "projectToken": "",
     "baseBranches": []
   },
-  "scanSettingsSAST": {
+ "scanSettingsSAST": {
     "enableScan": true,
+    "enableRemediation": true,
     "scanPullRequests": true,
     "incrementalScan": true,
     "baseBranches": [],
